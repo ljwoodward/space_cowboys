@@ -1,6 +1,6 @@
-DROP TABLE IF EXISTS bounty;
+DROP TABLE IF EXISTS bounties;
 
-CREATE TABLE bounty (
+CREATE TABLE bounties (
   id SERIAL4 PRIMARY KEY,
   name VARCHAR(255),
   species VARCHAR(255),
