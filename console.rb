@@ -15,7 +15,6 @@ bounty2 = Bounty.new(
   'collected_by' => 'Rutger'}
 )
 
-bounty1.save()
 
 binding.pry
 nil
